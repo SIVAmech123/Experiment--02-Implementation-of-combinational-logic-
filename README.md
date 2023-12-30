@@ -20,8 +20,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Procedure
 
 ## Program:
+<img width="145" alt="Screenshot 2023-12-30 152031" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/00da278b-6ff8-4233-8cfe-a5dadae39f7c">
 
-<img width="245" alt="Screenshot 2023-12-15 102540" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/9fcd3b44-51a3-46f5-8069-f74922ccb13c">
 
 ## Logic diagram:
 <img width="355" alt="Screenshot 2023-12-15 103230" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/d5b0e71d-b512-4ccf-8d09-235b1663cd5b">
