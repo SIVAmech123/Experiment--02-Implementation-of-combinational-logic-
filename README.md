@@ -24,15 +24,17 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 
 ## Logic diagram:
-<img width="355" alt="Screenshot 2023-12-15 103230" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/d5b0e71d-b512-4ccf-8d09-235b1663cd5b">
+<img width="256" alt="Screenshot 2024-01-03 112712" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/78f3f6ef-ac83-41cd-8e1a-a678d0ce2700">
+
 
 
 ## Timing Diagram:
-<img width="837" alt="Screenshot 2023-12-15 103211" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/28894bfc-ce92-455a-a374-e28ffbb1842a">
 
+
+<img width="476" alt="Screenshot 2024-01-03 112758" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/9d6768e9-1869-478a-85b3-62a4d8a2ebb2">
 
 ## Truth table:
-<img width="840" alt="Screenshot 2023-12-15 103245" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/b9c6fbae-a8a4-4b2b-99f0-584d3b3f44d3">
+<img width="470" alt="Screenshot 2024-01-03 112738" src="https://github.com/SIVAmech123/Experiment--02-Implementation-of-combinational-logic-/assets/151629067/b073c984-8eb9-4c85-a77f-6300b1c7f701">
 
 
 ## Result:
